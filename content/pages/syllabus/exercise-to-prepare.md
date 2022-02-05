@@ -57,7 +57,88 @@ You should do steps 1 & 2 before Class 2. You are welcome to start the video and
     
     ### Possible Angles of Entry into the Complexity
     
-    |  {{< br >}}{{< br >}} BRCA: Universal testing {{< br >}}{{< br >}} Free the Data and the Myriad genetic patent case {{< br >}}{{< br >}} Preventative & prophylactic oophorectomy {{< br >}}{{< br >}} Target gene therap {{< br >}}{{< br >}} E-patients and social media {{< br >}}{{< br >}} ALS and viral ice bucket videos {{< br >}}{{< br >}} 23andme (direct-to consumer testing) {{< br >}}{{< br >}} Quantified Self movement & DIY medicine/data collection {{< br >}}{{< br >}} Huntington's disease, Alzheimer's disease, Parkinson's disease, PKU {{< br >}}{{< br >}} Infant testing, and lifelong treatment genetic counseling eugenics and reproductive medicine: designer babies {{< br >}}{{< br >}} Surveillance and self-surveillance {{< br >}}{{< br >}} Afrofuturism {{< br >}}{{< br >}} Racial identity and DNA {{< br >}}{{< br >}} Genetic ancestry testing {{< br >}}{{< br >}} Surrogacy and parental rights {{< br >}}{{< br >}} Hereditary disease research {{< br >}}{{< br >}} [CRSPR and human genome editing](https://www.nap.edu/read/24623/chapter/1) {{< br >}}{{< br >}} Donor siblings  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Preimplantation genetic diagnosis and prenatal testing {{< br >}}{{< br >}} Big data and privacy issues {{< br >}}{{< br >}} Genetics vs. epigentics & trickle-down rhetoric {{< br >}}{{< br >}} Celebrity disease and disclosures (Angelina Jolie & Melissa Etheridge) {{< br >}}{{< br >}} Medical blogging & support groups {{< br >}}{{< br >}} Precision vs. personalized medicine {{< br >}}{{< br >}} Data ownership vs. data sharing {{< br >}}{{< br >}} HIPAA laws in a digital and genomic era {{< br >}}{{< br >}} Access to healthcare and genetic medicine {{< br >}}{{< br >}} Race-based discrepancies in health outcomes {{< br >}}{{< br >}} Dystopias & representations of genetic futurism {{< br >}}{{< br >}} Biopunk {{< br >}}{{< br >}} Genealogy {{< br >}}{{< br >}} Native/First Nations and paternity gametes {{< br >}}{{< br >}} Privacy and anonymity in gamete donation {{< br >}}{{< br >}}  
+    {{< tableopen >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    
+    
+    BRCA: Universal testing
+    
+    Free the Data and the Myriad genetic patent case
+    
+    Preventative & prophylactic oophorectomy
+    
+    Target gene therap
+    
+    E-patients and social media
+    
+    ALS and viral ice bucket videos
+    
+    23andme (direct-to consumer testing)
+    
+    Quantified Self movement & DIY medicine/data collection
+    
+    Huntington's disease, Alzheimer's disease, Parkinson's disease, PKU
+    
+    Infant testing, and lifelong treatment genetic counseling eugenics and reproductive medicine: designer babies
+    
+    Surveillance and self-surveillance
+    
+    Afrofuturism
+    
+    Racial identity and DNA
+    
+    Genetic ancestry testing
+    
+    Surrogacy and parental rights
+    
+    Hereditary disease research
+    
+    [CRSPR and human genome editing](https://www.nap.edu/read/24623/chapter/1)
+    
+    Donor siblings 
+    
+    
+    {{< tdclose >}}
+    {{< tdopen >}}
+    
+    
+    Preimplantation genetic diagnosis and prenatal testing
+    
+    Big data and privacy issues
+    
+    Genetics vs. epigentics & trickle-down rhetoric
+    
+    Celebrity disease and disclosures (Angelina Jolie & Melissa Etheridge)
+    
+    Medical blogging & support groups
+    
+    Precision vs. personalized medicine
+    
+    Data ownership vs. data sharing
+    
+    HIPAA laws in a digital and genomic era
+    
+    Access to healthcare and genetic medicine
+    
+    Race-based discrepancies in health outcomes
+    
+    Dystopias & representations of genetic futurism
+    
+    Biopunk
+    
+    Genealogy
+    
+    Native/First Nations and paternity gametes
+    
+    Privacy and anonymity in gamete donation
+    
+    
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 4.  Rapid PBL
     

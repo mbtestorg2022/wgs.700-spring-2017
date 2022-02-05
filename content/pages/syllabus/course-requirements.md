@@ -38,22 +38,120 @@ Grading
 
 In recognition of the contingencies of your lives, around 20% of written assignments, presentations, and participation items may be skipped without penalty. Specifically, if you complete three of the four products and 30 of the 38 participation items, you get an automatic B+ and the Grading Rubric (see below) is used to assign B+, A- or A. _Only if you miss that target_—we hope you don’t—are points tallied: You get 10 points for each completed product (or 5 points if you only make an initial submission), and you get 5 points for each presentation made, up to 50 points maximum. You get 1 point each participation item completed up to 35 maximum. These points are converted to letter grade:
 
-| GRADE | POINTS |
-| --- | --- |
-| B+ | ≥80 |
-| B | ≥72.5 |
-| B- | ≥65 |
-| C+ | ≥57.5 |
-| C | ≥50 |
-| F | <50 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADE
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+{{< tdopen >}}
+≥80
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+≥72.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B-
+{{< tdclose >}}
+{{< tdopen >}}
+≥65
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C+
+{{< tdclose >}}
+{{< tdopen >}}
+≥57.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+≥50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+\<50
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 If you qualify for an automatic B+, you get 80 points. In that case, the following rubric is used to add points (likely moving the grade above a B+). The total points are converted to letter grade:
 
-| GRADE | POINTS |
-| --- | --- |
-| A | ≥95 |
-| A- | ≥90 |
-| B+ | ≥  80 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADE
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+≥95
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A-
+{{< tdclose >}}
+{{< tdopen >}}
+≥90
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+{{< tdopen >}}
+﻿≥  80
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Grading Rubric (for grades of B+ or above)_
 
