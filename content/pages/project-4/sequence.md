@@ -16,7 +16,7 @@ Class 11
 
 ### Focal Readings
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Campbell, Mary Baine. "[Busy Bees: Utopia, Dystopia, and the Very Small" (PDF - 2.53MB)](http://jmems.dukejournals.org/content/36/3/619.full.pdf). _Journal of Medieval and Early Modern Studies_ 36, no. 3 (2006): 619–642. 
+Campbell, Mary Baine. "[Busy Bees: Utopia, Dystopia, and the Very Small" (PDF - 2.53MB)](http://jmems.dukejournals.org/content/36/3/619.full.pdf). _Journal of Medieval and Early Modern Studies_ 36, no. 3 (2006): 619–642. 
 
 Between Class 11 and 12
 -----------------------

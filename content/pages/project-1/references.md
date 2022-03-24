@@ -20,7 +20,7 @@ Haraway, Donna, and Thyrza Goodeve. _How Like a Leaf: An Interview with Donna Ha
 
 Institute of Contemporary Art. "[Leap Before You Look: Black Mountain College 1933–1957](https://www.youtube.com/watch?v=9URP8GgSg5M)." YouTube. 2015.
 
-Marchesini, Roberto. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Alterity and the Non-human (PDF)](http://www.depauw.edu/humanimalia/issue02/pdfs/Marchesini.pdf)." Translated by Boria Sax. _HUMaNIMALIA_ 1, no 2. (2010): 91–96. 
+Marchesini, Roberto. "[Alterity and the Non-human (PDF)](http://www.depauw.edu/humanimalia/issue02/pdfs/Marchesini.pdf)." Translated by Boria Sax. _HUMaNIMALIA_ 1, no 2. (2010): 91–96. 
 
 Paper Tiger TV. "[Donna Haraway Reads _The National Geographic_ on Primates](https://www.cctv.org/watch-tv/programs/donna-haraway-reads-national-geographic-primates-ted-koppels-long-march-viewed-dan)." 1987. 
 
