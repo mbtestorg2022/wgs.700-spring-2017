@@ -8,6 +8,7 @@ image_metadata:
   credit: Image by Trent Erwin on Unsplash.
   image-alt: 'A photo of a laptop, a pair of glasses, and an open notebook with a
     pen resting on it. '
+parent_uid: 75c878be-f548-3cfb-fb1d-1bf47c77aaa0
 resourcetype: Image
 title: learn.jpg
 uid: 58645480-3c1d-83a7-9d37-392435fb95b8
